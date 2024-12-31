@@ -24,8 +24,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github Code](https://github.com/nursh/FM-Blog-Preview-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/nursh/FM-Blog-Preview-Card)
+- [Live Site URL](https://nursh.github.io/FM-Blog-Preview-Card/)
 
 ## My process
 
