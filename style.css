@@ -33,6 +33,14 @@ main {
   background-color: var(--color-yellow);
 }
 
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
 h1,
 p {
   padding: 0;
