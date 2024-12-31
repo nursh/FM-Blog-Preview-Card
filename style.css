@@ -117,4 +117,24 @@ p {
   .blog-card {
     width: 384px;
   }
+
+  .blog-card--tag {
+    font-size: 14px;
+  }
+
+  .blog-card--date {
+    font-size: 14px;
+  }
+
+  .blog-card--title {
+    font-size: 24px;
+  }
+
+  .blog-card--description {
+    font-size: 16px;
+  }
+
+  .blog-card--author p {
+    font-size: 14px;
+  }
 }
